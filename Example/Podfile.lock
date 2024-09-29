@@ -1,0 +1,16 @@
+PODS:
+  - Shorts (0.1.0)
+
+DEPENDENCIES:
+  - Shorts (from `../`)
+
+EXTERNAL SOURCES:
+  Shorts:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Shorts: bab5703a2a2449ddf801143ac27ae4c45c34226e
+
+PODFILE CHECKSUM: 984690d4d713ea5e88eddc6136a654657c2ffa20
+
+COCOAPODS: 1.15.2
